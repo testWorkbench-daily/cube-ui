@@ -1,2 +1,2 @@
 cnpm install
-npm run build
+npm run doc-demo-build
